@@ -34,5 +34,5 @@
               </div>
             </div>
           </div>
-          <div id="developed">developed by @dheeraj</div>
+          <div id="developed">developed by @Dheeraj</div>
         </footer>
